@@ -1,1 +1,8 @@
 site_name: RDA - PIDINST
+nav:
+    - Home: index.md
+    - Creating PIDs: create_pid.md
+    - Landing Pages: landing_pages.md
+    - Glossary: glossary.md
+    - About: about.md
+theme: readthedocs
